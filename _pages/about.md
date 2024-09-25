@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Love~婷婷&#128151;
+I Love~婷婷&#128151;
 
 <p align = "justify"> 
 I am a PhD candidate at the University of Tsukuba with a background in Bioinformatics and Medical Sciences, focusing on Computational System Biology and Computational Precision Health. I am currently working with <a href="https://scholar.google.com/citations?hl=zh-CN&user=9gqMviwAAAAJ&view_op=list_works&sortby=pubdate" target="_blank" rel="Tetsuya Sakurai">Professor. Tetsuya Sakurai </a> and <a href="https://scholar.google.com/citations?hl=ja&user=ZqMXkL0AAAAJ&view_op=list_works&sortby=pubdate" target="_blank" rel="Xiucai Ye">Associate Professor. Xiucai Ye </a> on deciphering coding potential of lncRNA, exploring biological function and intrinsic feature.
